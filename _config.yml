@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: nahbs blog
-description: A Jekyll theme for documentation
+description: Blog made by nahbs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nah-bs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: nah-bs/nah-bs.github.io # for github-metadata
